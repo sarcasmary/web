@@ -14,3 +14,6 @@ https://github.com/sarcasmary/web/blob/main/G9-Express%2Brun%2B2025_01_20.pdf
 
 Составляю отчеты о дефектах в YouTrack для веб-приложения "Интернет магазин"
 https://github.com/sarcasmary/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85%20%D0%B2%D0%B5%D0%B1.xlsx
+
+Перехватываю и изменяю трафик в Charles proxy в веб-приложении на ПК
+https://github.com/sarcasmary/web/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE-14-02-2025%20055625.mp4
